@@ -44391,7 +44391,7 @@ C(a){var s,r=null,q=this.c
 q=q===B.bv||q===B.cw
 s=t.p
 if(q){q=A.bZ(5)
-q=A.ba(A.ax(r,A.aI(A.a([A.mD(7,B.y,10,35,"My Referral link",new A.a9j(),130),B.FK,A.mD(7,B.y,10,35,"copy",new A.a9k(),75)],s),B.l,B.aM,B.j),B.m,r,B.AI,new A.aZ(B.h,r,r,q,r,r,B.C),35,r,B.Fk,r,r),r,r)}else q=A.aO(A.a([A.aI(A.a([A.ay(A.aI(A.a([A.a6("Refferel link",r,r,r,A.an().$1$color(B.k),r,r),A.bo(r,r,15),A.y7(new A.hr("assets/icons/ic_navigation.png",r,r),B.y,r)],s),B.l,B.n,B.j),1),A.Ox(0.7853981633974483,A.oC(B.Gq,B.y,r,r))],s),B.l,B.n,B.j),B.b8,B.UP,B.b8,A.aI(A.a([A.mD(7,B.y,10,10,"Copy",new A.a9l(),80),B.kK,A.mD(7,B.y,10,10,"Share",new A.a9m(),80)],s),B.l,B.n,B.j)],s),B.a3,B.n,B.j)
+q=A.ba(A.ax(r,A.aI(A.a([A.mD(7,B.y,10,35,"My Referral link",new A.a9j(),130),B.FK,A.mD(7,B.y,10,35,"copy",new A.a9k(),75)],s),B.l,B.aM,B.j),B.m,r,B.AI,new A.aZ(B.h,r,r,q,r,r,B.C),35,r,B.Fk,r,r),r,r)}else q=A.aO(A.a([A.aI(A.a([A.ay(A.aI(A.a([A.a6("Refferel link",r,r,r,A.an().$1$color(B.k),r,r),A.bo(r,r,15),A.y7(new A.hr("assets/icons/ic_question_mark.png",r,r),B.y,r)],s),B.l,B.n,B.j),1),A.Ox(0.7853981633974483,A.oC(B.Gq,B.y,r,r))],s),B.l,B.n,B.j),B.b8,B.UP,B.b8,A.aI(A.a([A.mD(7,B.y,10,10,"Copy",new A.a9l(),80),B.kK,A.mD(7,B.y,10,10,"Share",new A.a9m(),80)],s),B.l,B.n,B.j)],s),B.a3,B.n,B.j)
 return q}}
 A.a9j.prototype={
 $0(){},
